@@ -1,0 +1,14 @@
+#dog-showing {
+  display: none;
+}
+.main-img {
+  display: none;
+}
+.clickable {
+  cursor: crosshair;
+  color: #f442eb;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
