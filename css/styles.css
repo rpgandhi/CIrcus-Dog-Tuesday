@@ -28,6 +28,20 @@
 }
 
 .custom {
-  color : #f442eb;
+  color: #f442eb;
   background-color: #fcf7bf;
+}
+
+.dark-background {
+  background-color: #404040;
+  color: #ffffff;
+}
+.btn-dark {
+  color: #ffffff;
+  background-color: #404040;
+}
+
+.btn-original {
+  color: #404040;
+  background-color: #f2f2f2;
 }
