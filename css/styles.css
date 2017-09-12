@@ -45,3 +45,7 @@
   color: #404040;
   background-color: #f2f2f2;
 }
+
+.highlight {
+  border: 10px solid blue;
+}

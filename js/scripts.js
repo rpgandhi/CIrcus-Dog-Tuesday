@@ -28,4 +28,8 @@ $(document).ready(function() {
     $("body").removeClass();
     //$("body").addClass("original-background");
   });
+  $("p#highlight").click(function() {
+    $("p#highlight").removeClass();
+    $("p#highlight").addClass("highlight");
+  });
 });
